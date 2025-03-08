@@ -1,4 +1,5 @@
 Download link :https://programmingsolver.com/questions-and-answers/csci-5521-hw-2-solution-pca-lda-knn-on-digits/
+
 You are encouraged and expected to do this assignment in groups of two. You must use MATLAB for this assignment. Only one group member should upload solutions to Canvas. However, both group member names, student IDs, and emails must be on the first page of the solution. When submitting, please combine all the matlab files into one .zip file.
 
 You must implement the solution yourself for computing the projections and discriminate func-tions.
